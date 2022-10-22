@@ -1,5 +1,4 @@
-# 01【PHP入门】HP是什么
-==========
+# 01【PHP入门】PHP是什么
 PHP（“PHP: Hypertext Preprocessor”，超文本预处理器的字母缩写）是一种被广泛应用的开放源代码的多用途脚本语言，它可嵌入到 HTML中，尤其适合 web 开发。
 
 以上是一个简单的回答，不过这是什么意思呢？请看如下例子：
@@ -33,7 +32,8 @@ PHP（“PHP: Hypertext Preprocessor”，超文本预处理器的字母缩写�
 - Silverstripe CMS
 
 ## 课程文件
-https://github.com/ericgaonz/php-lang/blob/main/README.md
+https://github.com/ericgaonz/php-study/blob/develop/01-what-is-php/README.md
+https://github.com/ericgaonz/php-study/blob/develop/01-what-is-php/hello-world.php
 
 ## 视频作者信息
 - MR. GAO

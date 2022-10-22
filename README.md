@@ -37,7 +37,7 @@ NOTE: 我们的入门视频大多数会采用在线测试平台
   这部分内容可能需要会员才能观看。
 
 ## 课程文件
-https://github.com/ericgaonz/php-lang/blob/main/README.md
+https://github.com/ericgaonz/php-study/blob/develop/README.md
 
 ## 视频作者信息
 - MR. GAO
