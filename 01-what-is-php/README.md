@@ -20,6 +20,11 @@ PHP（“PHP: Hypertext Preprocessor”，超文本预处理器的字母缩写�
 </html>
 ```
 
+## PHP安装
+- php -v
+- brew install php@7.4 (MAC电脑)
+- https://formulae.brew.sh/formula/php@7.4
+
 ## 实用的PHP在线测试网站
 - https://www.w3schools.com/php/phptryit.asp?filename=tryphp_intro
 - https://onlinephp.io/
