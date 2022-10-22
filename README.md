@@ -1,11 +1,10 @@
 # 【PHP入门】什么是PHP
-==========
 PHP（“PHP: Hypertext Preprocessor”，超文本预处理器的字母缩写）是一种被广泛应用的开放源代码的多用途脚本语言，它可嵌入到 HTML中，尤其适合 web 开发。
 它的语法利用了 C、Java 和 Perl，易于学习。该语言的主要目标是允许 web 开发人员快速编写动态生成的 web 页面，但 PHP 的用途远不只于此。
 
 ## 官网
-https://www.php.net/
-https://www.php.net/manual/zh/
+- https://www.php.net/
+- https://www.php.net/manual/zh/
 
 ## 技术前提
 没什么特别的要求，有点基本的Html基础
